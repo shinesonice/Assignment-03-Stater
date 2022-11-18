@@ -1,0 +1,128 @@
+@media (min-width: 576px) {
+} /* color #199cdb */
+* {
+  margin: 0px;
+}
+.color-main {
+  color: #199cdb;
+}
+
+i {
+  color: #199cdb;
+}
+
+.bg-grey {
+  background: #f7f7f7;
+}
+.gap-medium {
+  gap: 32px;
+}
+.magrin-medium {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.magrin-small {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.section-title {
+  margin: 62px 0px;
+}
+.box-shadow {
+  box-shadow: 0px 0px 1px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* is banner */
+
+#banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(../images/banner.jpg);
+  background-size: cover;
+  height: 80vh;
+}
+/* is navbar */
+#nav-bar {
+  text-align: center;
+}
+.container-avatar {
+  width: 30%;
+}
+.img-avatar {
+  width: 32px;
+  height: 32px;
+  transform: scale(4);
+  border: 2px solid #fff;
+  border-radius: 50%;
+}
+.list-icon-info {
+  list-style-type: none;
+}
+.icon-item {
+  margin: 8px 4px;
+}
+/*  */
+.list-team {
+  list-style-position: inside;
+}
+/* about  */
+#about {
+  margin-bottom: 86px;
+  margin-top: 86px !important;
+}
+#job-info {
+  margin-bottom: 86px;
+  margin-top: 86px !important;
+}
+.list-none {
+  list-style-type: none;
+}
+.hobby-list li i {
+  border: 1px solid #199cdb;
+  padding: 16px;
+  border-radius: 50px;
+}
+.hobby-list li {
+  /* margin: 0px 16px; */
+}
+.card-info {
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.05);
+}
+.mark-item {
+  width: 10%;
+  padding: 2px 0px;
+  background-color: #199cdb;
+  margin: 8px 3%;
+}
+td {
+  vertical-align: top;
+}
+#project {
+  margin-bottom: 86px;
+}
+.contact-items {
+  margin: 0px 16px;
+}
+.contact-icons {
+  font-size: 32px;
+}
+.contact-items p {
+  padding-top: 10px;
+}
+.project-btn-m {
+  margin: 80px;
+}
+.btn-year {
+  padding: 2px 16px;
+  border-radius: 20px;
+  background-color: #199cdb;
+  color: #fff;
+}
+.outline-left-bottom {
+  box-shadow: 0px 1px 0px 0px orange, 1px 0px 0px 0px orange;
+}
+.outline-bottom {
+  box-shadow: 0px 1px 0px 0px orange;
+}
+/* #footer{
+  dis
+} */
