@@ -1,7 +1,7 @@
-@media (min-width: 576px) {
-} /* color #199cdb */
+/* color #199cdb */
 * {
   margin: 0px;
+  font-size: 11px;
 }
 .color-main {
   color: #199cdb;
@@ -29,7 +29,7 @@ i {
   margin: 62px 0px;
 }
 .box-shadow {
-  box-shadow: 0px 0px 1px 5px rgba(0, 0, 0, 0.05);
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.05);
 }
 
 /* is banner */
@@ -109,7 +109,7 @@ td {
   padding-top: 10px;
 }
 .project-btn-m {
-  margin-left: 120px;
+  margin-left: 110px;
   margin-top: 30px;
 }
 .btn-year {
@@ -123,6 +123,14 @@ td {
 }
 .outline-bottom {
   box-shadow: 0px 1px 0px 0px orange;
+}
+.favorite-icon {
+  padding: 16px;
+  border: 1px solid #199cdb;
+  border-radius: 50%;
+}
+.bg-xam {
+  background-color: #f1f3f5;
 }
 /* #footer{
   dis
